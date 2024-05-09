@@ -14,7 +14,7 @@ int viewSuccessCount = 0;
 void setup()
 {
     size(700, 700);
-    cat = loadImage("../asset/cat.png");
+    cat = loadImage("cat.png");
 }
 
 void draw()
